@@ -17,5 +17,5 @@ env:
   - secure: lRXjvcO3aBXM+I86YLhVIciwjCQt5MaN9rsRQPE283eyjAgQi2I/9ZRE9SHw67QDx55iYBuoxKjSreVb6GDbxprh4IuByWGZwVtQmuMmtLHKT6PgDXJTpDUaJoR1JkviQRrMfteMDV1bYLFgRIN1vnZDd5UGIQ7Re+cEp/vutEM=
 before_install:
 - git submodule update --init --recursive
-- apt-get install locales
+- sudo apt-get install locales
 after_success: ./deploy.sh
