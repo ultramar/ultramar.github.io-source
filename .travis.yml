@@ -18,4 +18,5 @@ env:
 before_install:
 - git submodule update --init --recursive
 - sudo locale-gen pt_PT
+- sudo apt-get install -y optipng
 after_success: ./deploy.sh
