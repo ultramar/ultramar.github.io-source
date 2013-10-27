@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <meta name="author" content="{{ AUTHOR }}">
+
+  {% if FEED_ATOM %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate"
+        title="{{ SITENAME }} Atom Feed" />
+  {% endif %}
+  {% if FEED_RSS %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate"
+        title="{{ SITENAME }} RSS Feed" />
+  {% endif %}
+
+  {% if EXTRA_HEADER %}
+    {{ EXTRA_HEADER }}
+  {% endif %}
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="{{ SITEURL }}/theme/images/favicon.png" rel="icon">
+  <link href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" media="screen, projection"
+        rel="stylesheet" type="text/css">
+
+  <!-- jQuery and plugins -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <script src="{{ SITEURL }}/theme/js/jquery.zclip.min.js"></script>
+
+  {% if DISQUS_DEVMODE %}
+  <script type="text/javascript">var disqus_developer = 1; // this would set it to developer mode </script> 
+  {% endif %}
+
+  <link href='http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic|Quando&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  {% if article and article.latex %}
+    {{ article.latex }}
+  {% endif %}
+  {% if page and page.latex %}
+    {{ page.latex }}
+  {% endif %}
+</head>
+
+<body>
+    <div class="wrap">
+  <header>{% include '_includes/header.html' %}</header>
+  <div id="main">
+    <div id="content">
+      {% block content %}{% endblock %}
+    </div>
+  </div>
+  <footer role="contentinfo">{% include '_includes/footer.html' %}</footer>
+  {% include '_includes/after_footer.html' %}
+  </div> <!-- // .wrap -->
+</body>
+</html>

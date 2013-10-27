@@ -1,0 +1,22 @@
+<div class="title">{{ SITENAME }}</div>
+{% if SITESUBTITLE %}
+    <div class="subtitle">{{ SITESUBTITLE }}</div>
+{% endif %}
+<div class="navi">
+    <ul>
+        {% for title, link in MENUITEMS %}
+            <li><a href="{{ link }}">{{ title }}</a></li>
+        {% endfor %}
+        {% if DISPLAY_PAGES_ON_MENU %}
+            {% for page in PAGES %}
+                <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+            {% endfor %}
+            <!-- TODO: add categories here? -->
+        {% endif %}
+    </ul>
+    <img class="title-image" alt="Portvgal" src="{{ SITEURL }}/theme/images/cristo_simples.svg" width="200px">    
+</div> <!-- // .navi -->
+<footer>
+    <p>Fragmentos de política ultramarina portuguesa</p>
+    <p class="fleuron">❧</p>
+</footer>
