@@ -1,0 +1,5 @@
+pelican
+markdown
+fabric
+typogrify
+beautifulsoup4
