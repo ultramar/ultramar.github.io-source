@@ -153,7 +153,11 @@ article {
 	
 	.content {
 		padding-bottom: $post-content-bottom-space;
+		
+		em {
+			font-style: italic;
 		}
+	}
 		
 	footer {
 		padding: $tags-spacing 0;
@@ -168,12 +172,25 @@ article {
  		.fleuron {
 			font-size: 1.1em;
 			color: $dark-gray;
+		}		
+
+		.cristo {
+			border-bottom: 0px solid $light-gray;
+			border-top: 0px solid $light-gray;
+			padding: 0;
 		}
 
-		}
+		}	
 
 	.right {
-		text-align: right;
+		text-align: right;		
+	}
+
+	.fleuron-article {
+		margin-top: 0.6em;
+		text-align: center;
+		font-size: 2em;
+		color: $dark-gray;
 	}
 		
 	h1, h2, h3 {

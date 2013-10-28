@@ -16,7 +16,7 @@ DATE_FORMATS = {
     'pt': ('pt_PT','%d de %B de %Y'),
 }
 
-THEME = 'pageturner-pelican'
+THEME = 'themes/pelican-pageturner'
 
 DEFAULT_LANG = u'pt'
 
@@ -40,6 +40,8 @@ MENUITEMS = [
     ('Blog','/'),
     ('Arquivo','/archives.html'),
 ]
+
+MD_EXTENSIONS = ['extra', 'footnotes']
 
 PLUGIN_PATH = "plugins"
 PLUGINS = ['optimize_images', 'summary', 'post_stats']
