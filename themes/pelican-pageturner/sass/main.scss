@@ -146,10 +146,11 @@ blockquote {
 	
 article {
 	margin-bottom: $space-between-posts*1em;
-	padding: 0;
+	padding-bottom: 3em;
 	font-size: $post-font-size;
 	line-height: $post-font-line-height;
 	text-align: $post-align;
+	background: url(../images/section_deco.gif) no-repeat bottom center;
 	
 	.content {
 		padding-bottom: $post-content-bottom-space;
@@ -161,7 +162,7 @@ article {
 		
 	footer {
 		padding: $tags-spacing 0;
-		border-bottom: 1px solid $light-gray;
+		/*border-bottom: 1px solid $light-gray;*/
 		border-top: 1px solid $light-gray;
  		
  		#disqus_thread { 			
@@ -187,10 +188,13 @@ article {
 	}
 
 	.fleuron-article {
+		/*
 		margin-top: 0.6em;
 		text-align: center;
 		font-size: 2em;
 		color: $dark-gray;
+		*/
+		background: url(../images/section_deco.gif) no-repeat bottom center;
 	}
 		
 	h1, h2, h3 {
@@ -234,6 +238,8 @@ article {
 		}
 		
 	p {
+
+		text-indent: 1.5em;
 		.caption {
 			font-family: $caption-font-family;
 			font-size: $caption-font-size;
