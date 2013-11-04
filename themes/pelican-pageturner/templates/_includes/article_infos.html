@@ -1,8 +1,5 @@
-<p class="meta">
-  <span class="byline author vcard">
-  <span class="fleuron">❧</span>
-   {{ article.author }},
-  </span> 
+<p class="meta">  
+  <i>publicado por</i> {{ article.author }}
   {% if index %}
     {% include '_includes/article_time.html' %}<br>
     <i><a class="right" href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Comentários</a></i>    

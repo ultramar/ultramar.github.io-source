@@ -1,7 +1,7 @@
-<header>
+<header id="titulo">
     {% if index %}
         <h1>
-            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title|striptags }}</a>
+            <a href="{{ SITEURL }}/{{ article.url }}#titulo">{{ article.title|striptags }}</a>
         </h1>
     {% else %}
         <h1>
@@ -14,11 +14,19 @@
     {% if index %}
         {{ article.summary }}
         (...)<br>
-        <i><a href="{{ SITEURL }}/{{ article.url }}">Ler</a></i>
+        <i><a href="{{ SITEURL }}/{{ article.url }}#titulo">Ler</a></i>
     {% else %}
         {{ article.content }}                
     {% endif %} 
 </div>
+{% if not index %}
+<footer>        
+    {% if article.original_work %}
+    Obra citada:<br>
+    <i>{{ article.original_author }} </i>in<i> {{ article.original_work }}, {{article.original_extra}}</i>
+    {% endif %}
+</footer>
+{% endif %}
 <footer>        
     {% include '_includes/article_infos.html' %}
     {% if not index %}

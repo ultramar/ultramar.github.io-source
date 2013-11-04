@@ -239,7 +239,7 @@ article {
 		
 	p {
 
-		text-indent: 1.5em;
+		text-indent: 1em;
 		.caption {
 			font-family: $caption-font-family;
 			font-size: $caption-font-size;
@@ -257,6 +257,10 @@ article {
 			font-size: $post-first-words-font-size;
 			font-variant: $post-first-words-font-variant;
 			}
+		}
+
+		.meta {
+			text-indent: 0em;
 		}
 	}
 	

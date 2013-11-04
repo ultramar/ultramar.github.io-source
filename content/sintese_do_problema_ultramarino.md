@@ -3,14 +3,16 @@ Date: 2013-10-25 00:13
 Category: Ultramar
 Tags: 'Franco Nogueira', 'Diálogos Interditos'
 Author: Henrique
+Original_Author: Franco Nogueira
+Original_Work: Diálogos Interditos - A política externa portuguesa e a guerra de África, I Volume, Editorial Intervenção, 1979
+Original_Extra: pág. XXXIX-XLVI
 
->Na introducção dos seus "Diálogos Interditos", o Ministro dos Negócios Estrangeiros português de 1961 a 1969, resume as várias soluções propostas para a resolução do problema ultramarino português, invocadas como alternativas à política seguida pelo Governo, e explica os problemas e contradições que lhes eram subjacentes.
+><!-- PELICAN_BEGIN_SUMMARY -->Na introducção dos seus "Diálogos Interditos", o Ministro dos Negócios Estrangeiros português de 1961 a 1969, resume as várias soluções propostas para a resolução do problema ultramarino português, invocadas como alternativas à política seguida pelo Governo, e explica os problemas e contradições que lhes eram subjacentes.<!-- PELICAN_END_SUMMARY -->
 
 ---
 
-<!-- PELICAN_BEGIN_SUMMARY -->
+
 De harmonia com este acervo de pontos de vista, eram também múltiplas as soluções defendidas; e todas eram apresentadas como miraculosas, definitivas, tornando-se incompreensível, tão simples e fáceis pareciam, que as não adoptasse o governo de Lisboa. Não devo fugir a apontar as que foram lançadas com mais insistência, e a procurar esclarecer as suas implicações e consequências.
-<!-- PELICAN_END_SUMMARY -->
 
 Lançou-se a ideia de uma declaração de princípios ou de intenções que, de forma mais ou menos vaga, aceitasse a ideia de autodeterminação como preconizada pelas Nações Unidas, mas marcando um prazo largo, havendo quem sugerisse trinta anos; assim se evitariam mais debates e ataques na ONU; e essa declaração satisfaria os anticolonialistas, em particular os americanos. Este expediente não tinha em conta, todavia, os factos seguintes, entre outros: 
 a) a declaração de uma nova política cria a velocidade psicológica da execução dessa política; 
@@ -47,5 +49,3 @@ Digamos o mesmo por outras palavras. Aquelas soluções esqueciam esta regra pol
 Todas estas propostas de solução, e outras semelhantes, giravam em torno de uma ideia sempre muito comum no escol português: a de que é possível adoptar simultaneamente políticas contraditórias e obter de cada uma apenas os benefícios e afastar os respectivos prejuízos. No caso concreto, pretendia-se conservar o ultramar - mas sem luta, sem sacrifício, sem esforço. Quando se trata de fazer um sacrifício, o escol português (não o povo) logo pretende recorrer à habilidade, ao expediente, à esperteza, aparentemente na convicção de que os adversários são ingénuos ou tolos, e de que se deixam iludir com soluções que os satisfariam em palavras mas não lhes entregariam a realidade das coisas. 
 Portugal era atacado em África por forças que queriam possuir Angola e Moçambique: sabiam perfeitamente quando é que deteriam essa posse, e não se contentavam com fórmulas, palavras, arranjos, ou construcções políticas ou jurídicas que não lhes dessem tal posse, de uma forma concreta, física, material. Recorde-se que no escol português havia quem advogasse uma política inteligente, uma política flexível, uma política realista, uma política que alcançasse o máximo e perdesse o mínimo, uma política de negociação; mas em nenhum caso se definiam essas políticas, nem se desejava, nem se queria, nem se julgava que qualquer delas conduzisse à perda. E esses não pareciam ver que o adversário, por seu turno, era intransigente, inflexível, recusando compromissos, meias soluções e meias políticas. Um facto fundamental, a que se não dava resposta, era este: perante uma resolução da ONU, condenando Portugal, e reivindicando Angola e Moçambique, que fariam os advogados de tais soluções e tais políticas? Votavam a favor ou votavam contra?
 Acaso pensariam, para evitar a situação de minoria na ONU, que poderiam votar a favor - e que nada sucederia nos territórios? Ou acaso pensariam que poderiam votar contra - e obter por fora da ONU uma solução que contrariasse esta?
-
-*Franco Nogueira in Diálogos Interditos - A política externa portuguesa e a guerra de África, I Volume, Editorial Intervenção, 1979, pág. XXXIX-XLVI*
