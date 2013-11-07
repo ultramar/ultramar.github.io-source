@@ -1,9 +1,10 @@
 <header id="titulo">
+    <img class="rol-image" alt="Rosa dos ventos" src="{{ SITEURL }}/theme/images/rosa.svg" width="70px"> 
     {% if index %}
         <h1>
             <a href="{{ SITEURL }}/{{ article.url }}#titulo">{{ article.title|striptags }}</a>
         </h1>
-    {% else %}
+    {% else %}        
         <h1>
             {{ article.title|striptags }}
         </h1>
