@@ -93,7 +93,8 @@ $fleuron-size: 2em;
 $content-width: 45%;
 
 /* Space above and below the header section */
-$header-spacing: 150px; 
+$header-top-spacing: 150px; 
+$header-bottom-spacing: 50px;
 
 /* Weight of the line at the top of the page */
 $top-line-weight: 8px;     
@@ -112,7 +113,7 @@ $post-content-bottom-space: 2em;
 $space-between-posts: 7;
 
 /* Author tags top and bottom spacing */
-$tags-spacing: 0.8em;
+$tags-spacing: 0.6em;
 
 /* Space before and after a <hr> */
 $hr-spacing: 4em;

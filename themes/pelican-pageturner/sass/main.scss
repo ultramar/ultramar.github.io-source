@@ -72,7 +72,9 @@ h2 {
 /* The main blog header */
 header {
 	margin-bottom: $space-between-posts/2*1em;
-	padding: $header-spacing 0;
+	/* padding: $header-spacing 0; */
+	padding-top: $header-top-spacing;
+	padding-bottom: $header-bottom-spacing;
 	border-bottom: 1px solid $light-gray;
 	text-align: center;
 	
@@ -118,7 +120,7 @@ header {
 		} /* // .navi */
 
 		footer {
-			margin-top: $header_spacing;
+			margin-top: $header-top-spacing;
 			border-top: 1px solid $light-gray;
 			color: $dark-gray;
 
@@ -126,6 +128,10 @@ header {
 				font-size: $fleuron-size;
 				color: $dark-gray;
 			}
+		}
+
+		.rol-image {
+			padding-top: 0.9em;
 		}
 
 	} /* // header */

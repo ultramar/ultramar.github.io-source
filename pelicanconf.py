@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 5
 #RELATIVE_URLS = True
 
 MENUITEMS = [
-    ('Blog','/'),
+    ('Rol','/'),
     ('Arquivo','/archives.html'),
 ]
 
