@@ -32,6 +32,7 @@
   <!-- jQuery and plugins -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script src="{{ SITEURL }}/theme/js/jquery.zclip.min.js"></script>
+  <script src="{{ SITEURL }}/theme/js/jquery.lettering-0.6.min.js"></script>
 
   {% if DISQUS_DEVMODE %}
   <script type="text/javascript">var disqus_developer = 1; // this would set it to developer mode </script> 
@@ -58,4 +59,10 @@
   {% include '_includes/after_footer.html' %}
   </div> <!-- // .wrap -->
 </body>
+<script>
+    $(document).ready(function () {
+        $(".subtitulo").lettering();
+        $(".title").lettering();
+    });
+</script>
 </html>

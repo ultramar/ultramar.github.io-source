@@ -14,13 +14,15 @@ $body-font: 'Sorts Mill Goudy', serif;
 $body-font-italic: 'Sorts Mill Goudy', serif;
 $body-font-size: 1.1em;
 
-$blog-title-font: 'futura-medium';
+$blog-title-font: 'futura-medium', sans-serif;
 $blog-title-font-size: 2.5em;
 $blog-title-text-transform: uppercase;
+$blog-title-text-weight: 500;
 $blog-title-color: $black;
 
-$blog-subtitle-font: 'futura-medium';
-$blog-subtitle-font-size: 0.8em;
+$blog-subtitle-font: 'futura-medium', sans-serif;
+/* $blog-subtitle-font: $body-font; */
+$blog-subtitle-font-size: 1em;
 $blog-subtitle-text-transform: uppercase;
 $blog-subtitle-color: $black;
 
@@ -28,6 +30,10 @@ $navi-font: 'Sorts Mill Goudy', serif;
 $navi-font-size: 1.15em;
 
 $page-title-align: center;
+$page-title-kerning: 0.1em;
+
+$page-undertitle-kerning: 0.15em;
+$blog-undertitle-text-weight: 500;
 
 $post-font-size: 1.1em;
 $post-font-line-height: 1.7em;
@@ -36,6 +42,7 @@ $post-align: justify;
 $post-first-words-font-variant: small-caps;
 $post-first-words-font-size: 1em;
 
+//$post-title-font-family: 'futura-medium', sans-serif;
 $post-title-font-size: 1.6em;
 $post-title-font-weight: normal;
 $post-title-font-style: normal;
@@ -93,7 +100,7 @@ $fleuron-size: 2em;
 $content-width: 45%;
 
 /* Space above and below the header section */
-$header-top-spacing: 150px; 
+$header-top-spacing: 120px;
 $header-bottom-spacing: 50px;
 
 /* Weight of the line at the top of the page */
@@ -104,7 +111,7 @@ $navi-link-spacing: 0.8;
 $navi-top-spacing: 0.4em;
 
 /* Space between the date and the post */
-$post-content-top-space: 3em;
+$post-content-top-space: 5em;
 
 /* Space between the post and the author/tags */
 $post-content-bottom-space: 2em; 
