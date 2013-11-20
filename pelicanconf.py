@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Henrique'
+AUTHOR = u'Henrique N.'
 SITENAME = u'Ultramar'
 #SITESUBTITLE = u'Polemos Pyrinos'
 #SITEURL = 'http://ultramar.github.io'
