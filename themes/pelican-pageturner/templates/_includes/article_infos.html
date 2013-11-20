@@ -2,7 +2,7 @@
   <i>publicado por</i> {{ article.author }}
   {% if index %}
     {% include '_includes/article_time.html' %}<br>
-    <i><a class="right" href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Comentários</a></i>    
+    <i><a class="right" data-disqus-identifier="/{{ article.slug }}" href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Comentários</a></i>
   {% else %}
     <br><i>classificado sob</i>
     {% if article.tags %}
