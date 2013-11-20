@@ -2,7 +2,7 @@ Title: Silvino Silvério Marques: O esforço humano da guerra era suportável pe
 Date: 2013-11-20 19:01
 Category: Ultramar
 Tags: 'Silvino Silvério Marques', 'Semanário'
-Author: Henrique N.
+Author: Henrique
 Original_Author: Silvino Silvério Marques
 Original_Work: Semanário de 18 de Abril de 1984
 

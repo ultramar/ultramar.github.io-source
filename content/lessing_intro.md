@@ -2,7 +2,7 @@ Title: Pieter Lessing: Substitute for an Introduction
 Date: 2013-11-20 19:00
 Category: Ultramar
 Tags: 'Pieter Lessing', 'Africas Red Harvest', 'UPA', 'Holden Roberto', 'Mário de Andrade', 'Solod'
-Author: Henrique N.
+Author: Henrique
 Original_Author: Pieter Lessing
 Original_Work: Africa's Red Harvest - An account of Communism in Africa, Michael Joseph, 1962
 Original_Extra: capítulo I

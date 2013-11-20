@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Henrique N.'
+AUTHOR = u'Henrique'
 SITENAME = u'Ultramar'
 #SITESUBTITLE = u'Polemos Pyrinos'
 #SITEURL = 'http://ultramar.github.io'
@@ -12,7 +12,6 @@ TYPOGRIFY = True
 TIMEZONE = 'Europe/London'
 
 DATE_FORMATS = {
-    'en': ('en_US','%a, %d %b %Y'),
     'pt': ('pt_PT','%d de %B de %Y'),
 }
 
