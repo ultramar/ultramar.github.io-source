@@ -1,5 +1,5 @@
 Title: Pieter Lessing: Substitute for an Introduction
-Date: 2013-10-31 8:21
+Date: 2013-11-20 19:00
 Category: Ultramar
 Tags: 'Pieter Lessing', 'Africas Red Harvest', 'UPA', 'Holden Roberto', 'Mário de Andrade', 'Solod'
 Author: Henrique N.
@@ -7,7 +7,7 @@ Original_Author: Pieter Lessing
 Original_Work: Africa's Red Harvest - An account of Communism in Africa, Michael Joseph, 1962
 Original_Extra: capítulo I
 
-><!-- PELICAN_BEGIN_SUMMARY -->O jornalista (sul) africano Pieter Lessing diz, na *Foreword* do seu *Africa's Red Harvest* que o seu primeiro capítulo fora para ser uma introducção, mas ficara demasiado longo. Diz ainda que é a única instância em que lida em detalhe com os eventos de um determinado país. Esse país era Portugal. Os eventos foram os do início da última guerra travada pela Nação Portuguesa, e ocorreram no território ultramarino de Angola. Para que sirva o mesmo propósito original, aqui se transcreve, no original e na íntegra, o primeiro capítulo desse livro, que relata o início da guerra do Ultramar.<!-- PELICAN_END_SUMMARY -->
+><!-- PELICAN_BEGIN_SUMMARY -->O jornalista sul-africano Pieter Lessing escreve, na *Foreword* do seu *Africa's Red Harvest*, que o primeiro capítulo fora para ser uma introducção, mas que ficara demasiado longo. Diz ainda que é aquela a única instância, no livro, em que detalhadamente lida com os eventos de um país. O país era Portugal. E os eventos foram os do início da última guerra travada pela Nação Portuguesa, e ocorreram no território da então província ultramarina de Angola. Servindo aqui o mesmo propósito original, transcreve-se, na íntegra, e por ora em língua bárbara, o primeiro capítulo desse livro, que relata o início da guerra do <u>Ultramar</u>.<!-- PELICAN_END_SUMMARY -->
 
 ---
  

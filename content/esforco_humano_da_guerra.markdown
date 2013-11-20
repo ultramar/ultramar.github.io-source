@@ -1,12 +1,12 @@
 Title: Silvino Silvério Marques: O esforço humano da guerra era suportável pela Nação
-Date: 2013-10-25 00:13
+Date: 2013-11-20 19:01
 Category: Ultramar
 Tags: 'Silvino Silvério Marques', 'Semanário'
 Author: Henrique N.
 Original_Author: Silvino Silvério Marques
 Original_Work: Semanário de 18 de Abril de 1984
 
-><!-- PELICAN_BEGIN_SUMMARY -->Neste artigo, publicado no Semanário de 18 de Abril de 1984 (via [PortaDaLoja][1]), o General Silvino Silvério Marques, Comendador da Ordem Militar de S. Bento de Avis, Governador de Cabo Verde de 1958 a 1962 e Governador de Angola de 1962 a 1966, e posteriormente de Maio a Julho de 1974 - em pleno processo de "descolonização" - deixa, à distância de dez anos, a sua visão sobre o esforço, do ponto de vista humano, que comportava para Portugal a defesa do Ultramar, e a sua opinião de que esse esforço era suportável, fundamentada com números e estatísticas interessantes e raramente publicados. Aqui ficam, se já não "a bem da Nação", pelo menos a bem da Verdade<!-- PELICAN_END_SUMMARY -->…
+><!-- PELICAN_BEGIN_SUMMARY -->Neste artigo, publicado no Semanário de 18 de Abril de 1984 (via [PortaDaLoja][1], onde podem ver-se as digitalizações do jornal, por gentileza do José), o General Silvino Silvério Marques, Comendador da Ordem Militar de S. Bento de Avis; Governador de Cabo Verde de 1958 a 1962; e Governador de Angola de 1962 a 1966 e posteriormente de Maio a Julho de 1974 - portanto em pleno processo de "descolonização" - deixa, à distância de dez anos, a sua visão sobre o esforço que comportava para Portugal, do ponto de vista humano, a defesa do Ultramar, e a sua opinião de que esse esforço era suportável, fundamentada com números e estatísticas interessantes e raramente publicadas. Aqui ficam, se já não "a bem da Nação", pelo menos a bem da Verdade<!-- PELICAN_END_SUMMARY -->…
 
 ---
 

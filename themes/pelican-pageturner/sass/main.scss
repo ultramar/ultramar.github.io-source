@@ -75,7 +75,7 @@ header {
     /* padding: $header-spacing 0; */
     padding-top: $header-top-spacing;
     padding-bottom: $header-bottom-spacing;
-    border-bottom: 1px solid $light-gray;
+    //border-bottom: 1px solid $light-gray;
     text-align: center;
 
     .title {
@@ -128,7 +128,7 @@ header {
         footer {
             margin-top: $header-top-spacing;
             //border-top: 1px solid $light-gray;
-            color: $dark-gray;
+            color: $black;
             font-family: $blog-subtitle-font;
             font-size: $blog-subtitle-font-size;
 
@@ -202,15 +202,6 @@ article {
         text-align: right;
     }
 
-    .fleuron-article {
-        /*
-        margin-top: 0.6em;
-        text-align: center;
-        font-size: 2em;
-        color: $dark-gray;
-        */
-        background: url(../images/section_deco.gif) no-repeat bottom center;
-    }
 
     h1, h2, h3 {
         text-align: $subheadings-align;
@@ -373,5 +364,7 @@ p > code {
   font-weight: $blog-undertitle-text-weight
 }
 
-
+#titulo_blog {
+  background: url(../images/section_deco.gif) no-repeat bottom center;
+}
 

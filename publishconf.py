@@ -20,3 +20,4 @@ DELETE_OUTPUT_DIRECTORY = True
 
 DISQUS_DEVMODE = False
 THEME = 'themes/pelican-pageturner'
+
