@@ -26,7 +26,13 @@
 <footer>        
     {% if article.original_work %}
     Obra citada:<br>
-    <i>{{ article.original_author }} </i>in<i> {{ article.original_work }}, {{article.original_extra}}</i>
+    <i>{{ article.original_author }} </i>in<i>
+            {% if article.original_work_link %}
+                <a href="{{ article.original_work_link }}">{{ article.original_work }}</a>
+            {% else %}
+                {{ article.original_work }}
+            {% endif %}
+        , {{article.original_extra}}</i>
     {% endif %}
 </footer>
 {% endif %}

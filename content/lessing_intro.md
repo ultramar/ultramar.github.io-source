@@ -6,6 +6,7 @@ Author: Henrique
 Original_Author: Pieter Lessing
 Original_Work: Africa's Red Harvest - An account of Communism in Africa, Michael Joseph, 1962
 Original_Extra: capítulo I
+Original_Work_Link: http://www.worldcat.org/oclc/469947892
 
 ><!-- PELICAN_BEGIN_SUMMARY -->O jornalista sul-africano Pieter Lessing escreve, na *Foreword* do seu *Africa's Red Harvest*, que o primeiro capítulo fora para ser uma introducção, mas que ficara demasiado longo. Diz ainda que é aquela a única instância, no livro, em que detalhadamente lida com os eventos de um país. O país era Portugal. E os eventos foram os do início da última guerra travada pela Nação Portuguesa, e ocorreram no território da então província ultramarina de Angola. Servindo aqui o mesmo propósito original, transcreve-se, na íntegra, e por ora em língua bárbara, o primeiro capítulo desse livro, que relata o início da guerra do <u>Ultramar</u>.<!-- PELICAN_END_SUMMARY -->
 
