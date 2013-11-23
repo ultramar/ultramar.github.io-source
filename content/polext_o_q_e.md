@@ -11,7 +11,7 @@ Original_Work_Link: http://www.worldcat.org/oclc/836751278
 ><!-- PELICAN_BEGIN_SUMMARY -->Começa com esta interrogação a obra de Franco Nogueira, "Diálogos Interditos - A política externa portuguesa e a guerra de África". Prossegue o Ministro dos Negócios Estrangeiros português de 1961 a 1969, com uma carreira diplomática de 28 anos, a expôr o seu entendimento do que é e deve ser a política externa de um país. Conceitos elementares que nos permitirão compreender melhor o contexto dos diálogos publicados na obra e dos quais se hão-de transcrever os mais importantes e interessantes.
 São de relevo, neste excerto, os três factores essenciais para se enfrentarem as complexidades da política externa, factores estes que o Portugal hodierno não tem em conta, sendo disso exemplo paradigmático a adesão à C.E.E. e os termos em que foi acordada.
 
->Mais importantes ainda são-nos requisitos mínimos que, na avisada opinião do antigo ministro, devem ser preenchidos para ser viável a independência de um país e para que este o possa ser na práctica. É tristemente evidente, e motivo de profunda e grave inquietação, que o Portugal de hoje os não preenche.<!-- PELICAN_END_SUMMARY -->
+>Mais importantes ainda são nos requisitos mínimos que, na avisada opinião do antigo ministro, devem ser preenchidos para ser viável a independência de um país e para que este o possa ser na práctica. É tristemente evidente, e motivo de profunda e grave inquietação, que o Portugal de hoje os não preenche.<!-- PELICAN_END_SUMMARY -->
 
 ---
 
