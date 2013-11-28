@@ -7,19 +7,19 @@ Original_Author: Pierre de Vos
 Original_Work: Le Monde de 5 de Julho de 1961
 Original_Work_Link: http://www.lemonde.fr/acces-restreint/archives/article/1961/07/05/6b67689c6a6b6cc594666867659970_2266764_1819218.html
 
-><!-- PELICAN_BEGIN_SUMMARY -->Em Julho de 1961, escassos quatro meses depois dos acontecimentos narrados [aqui][1], o jornal Le Monde publica um artigo[^1] do jornalista Pierre de Vos. Recolhe o jornalista algumas declarações do líder da U.P.A., Holden Roberto, acerca das torturas praticadas em Março e que se assacavam àquele movimento.
+><!-- PELICAN_BEGIN_SUMMARY -->Em Julho de 1961, escassos quatro meses passados depois dos acontecimentos narrados [aqui][1], o jornal Le Monde publica um artigo[^1], da autoria de Pierre de Vos, em que este jornalista recolhe algumas declarações do líder da U.P.A., Holden Roberto, acerca das torturas praticadas em Março daqules ano e que se assacavam àquele movimento.
 <!-- PELICAN_END_SUMMARY -->
 
->Não se coibiu o facínora de as afirmar, incluindo as que envolveram mulheres e crianças, nem hesitam os seus capangas em detalhar os pormenores mais sórdidos das suas actividades vis. Nestas se inclui o aproveitamento, para o efeito, de uma serra mecânica que encontraram numa serraria que lhes caiu nas mãos. Adianta um dos brutos, sorrindo, que "os serraram" de alto a baixo. Afirmam ainda outros que "claro que os torturámos, e continuaremos".
+>Não se coibiu o facínora entrevistado de as confirmar, incluindo as que envolveram mulheres e crianças, nem hesitam os seus capangas em detalhar os pormenores mais sórdidos das suas actividades vis. Nestas se inclui o aproveitamento, para aquele efeito, de uma serra mecânica que encontraram numa serraria que lhes caiu nas mãos. Adianta um dos brutos, sorrindo, que "os serraram" de alto a baixo. Afirmam outros que "claro que os torturámos, e continuaremos".
 
 >Para justificar estas barbaridades - cuidando que semelhantes torpezas, que serrar pessoas ao meio, é coisa passível de justificação - o líder Roberto, que o jornalista afirma ter a "distinção de um aluno de Oxford", invoca fuzilamentos, escravatura, e ainda outras brutalidades, alegadamente practicadas pelos portugueses. Ainda que tais acusações fossem verdadeiras - e nenhuma prova ou indício se fornece acerca da veracidade delas - não há nada que possa justificar a tortura de crianças ou o serrar de pessoas ao meio.
 
->Era isto, portanto, a "libertação" que aguardava Angola. Não admira que não tenha colhido apoio entre os que visava "libertar"... Ao contrário dos bem-pensantes privilegiados, em vidas douradas nas capitais europeias - Lisboa incluída - o povo angolano ràpidamente percebeu o que o esperava e nunca aderiu à "libertação".
-Era contra isto que se batiam os portugueses - brancos e negros - primeiro em Angola e depois na Guiné e em Moçambique. 
+>Era isto, portanto, a "libertação" que aguardava Angola. Não admira que não tenha colhido apoio entre os que visava "libertar"... Ao contrário de alguns influentes bem-pensantes privilegiados, em vidas douradas nas capitais mundiais - Lisboa incluída - o povo angolano ràpidamente percebeu o que o esperava e nunca aderiu à "libertação".
+Era pois contra isto que se batiam os portugueses de todas as raças, primeiro em Angola e depois na Guiné e em Moçambique. 
 
->Que deveriam ter feito os portugueses? Fugirem os brancos, abandonando quem ficasse à serra mecânica "libertadora"? Negociar? Quantas crianças torturadas valeria Angola? Transigir? Quantas vítimas reclamaria a carnificina vinda do Congo para se saciar?
+>Que deveriam ter feito os portugueses? Fugirem os brancos, abandonando quem ficasse - família, amigos, empregados... - à serra mecânica "libertadora"? Negociar? Quantas crianças torturadas valeria Angola? Transigir? Quantas vítimas reclamaria a carnificina vinda do Congo para se saciar?
 
->É verdade que estávamos e estivemos sós. Portugal estava, no plano internacional, isolado (embora não tanto quanto parecia). Mas não é menos verdade que tínhamos - e teremos sempre - motivo de que nos orgulhar: durante treze anos se opôs o braço português, como era seu dever, à selvajaria mais torpe que ameaçava as nossas gentes africanas. Não no podendo dissuadir ou forçar, acabou por ser pela traição que o fizeram vacilar. Apesar de tudo, Viriato não conseguiu melhor.
+>É verdade que estávamos e estivemos sós. Portugal estava, no plano internacional, isolado (embora não tanto quanto parecia). Mas não é menos verdade que tínhamos - e teremos sempre - motivo de que nos orgulhar: durante treze anos se opôs, só e bravamente, o braço português, como era seu dever, à selvajaria mais torpe que ameaçava as nossas gentes africanas. Não no podendo dissuadir ou forçar, acabaria por ser pela traição - a que nem Viriato resistiu - que o fariam vacilar e ceder, para desgraça de toda a nossa gente.
 
 [1]: http://ultramar.github.io/pieter-lessing-substitute-for-an-introduction.html#titulo
 
