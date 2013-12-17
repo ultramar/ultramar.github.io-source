@@ -1,5 +1,5 @@
 Title: Dificuldades entre Portugal e a Santa Sé
-Date: 2013-12-05 6:54
+Date: 2013-12-5 6:54
 Category: Ultramar
 Tags: 'Franco Nogueira', 'Diálogos Interditos', 'Vaticano'
 Author: Henrique
