@@ -1,4 +1,4 @@
-Title: Situação global do país em 1973 / 1974
+Title: Situação global em 1973 / 1974
 Date: 2014-01-24 19:05
 Category: Ultramar
 Tags: 'Silvino Silvério Marques', 'A Vitória Traída'
