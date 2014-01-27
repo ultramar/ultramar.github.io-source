@@ -9,7 +9,7 @@ Original_Extra: págs. 104 a 142
 Original_Work_Link: http://www.worldcat.org/oclc/804938003
 
 ><!-- PELICAN_BEGIN_SUMMARY -->
-> No seguimento da entrada anterior, prosseguimos com *«A Vitória Traída»*, e focamo-nos em cada província/Teatro de Operações. Começamos com a Guiné, com exposição do General Bethencourt Rodrigues, Comandante-Chefe e Governador d'aquela província.
+> No seguimento da entrada anterior, prosseguimos com *«A Vitória Traída»*, e focamo-nos em cada província/Teatro de Operações. Começamos pela Guiné, com uma exposição do General Bethencourt Rodrigues, Comandante-Chefe e Governador d'aquela província.
 
 > Nascido no Funchal, promovido a General em 1972, foi também Ministro do Exército de 1968 a 1970. Condecorado pela Nação com a Medalha de Ouro de Valor Militar com palma, Medalha de Ouro de Serviços Distintos com palma e Grã-Cruz da Medalha de Mérito Militar.
 
@@ -122,7 +122,7 @@ No entanto, as populações de um e outro lado cruzavam a fronteira com facilida
 <br/>
 ###IV. INIMIGO
 
-1\. O inimigo das Forças Armadas Portuguesas que combatiam na Guiné era exclusivamente constituído por elementos instruídos, equipados, armados, organizados e comandados pelo Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC). com seus apoios internacionais. A Frente de Libertação para a Independência da Guiné (FLING) não tinha qualquer expressão no campo militar.
+1\. O inimigo das Forças Armadas Portuguesas que combatiam na Guiné era exclusivamente constituído por elementos instruídos, equipados, armados, organizados e comandados pelo Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC), com os seus apoios internacionais. A Frente de Libertação para a Independência da Guiné (FLING) não tinha qualquer expressão no campo militar.
 
 <br/>
 2\. O PAIGC dispunha de inteira liberdade no Senegal e na República da Guiné e recebia total apoio dos seus Governos.
