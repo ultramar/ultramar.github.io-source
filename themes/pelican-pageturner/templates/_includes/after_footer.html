@@ -1,4 +1,6 @@
 {% include '_includes/analytics.html' %}
 {% include '_includes/piwik.html' %}
-{% include '_includes/disqus_script.html' %}
+{% if not DISQUS_DEVMODE %}
+    {% include '_includes/disqus_script.html' %}
+{% endif %}
 
