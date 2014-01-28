@@ -8,7 +8,7 @@ Original_Work: Diálogos Interditos - A política externa portuguesa e a guerra 
 Original_Extra: pág. 275-277 (volume I); 64-67, 68-74 (volume II)
 Original_Work_Link: http://www.worldcat.org/oclc/836751278
 
-><!-- PELICAN_BEGIN_SUMMARY -->Em 1747, alcançou El-rei D. João V, *O Magnânimo*, o título de *Fidelíssimo*, do Papa Bento XIV. Foi elevada à dignidade de Patriarcado a cidade de Lisboa, a par de Roma e Veneza. Portugal ficaria, desde aí, a ser conhecido como a Nação Fidelíssima. Se poucos motivos haverá para questionar a fidelidade portuguesa à Igreja, há, porém, alguns que permitem suspeitar que aquela não seria recíproca na mesma medida.
+><!-- PELICAN_BEGIN_SUMMARY -->Em 1747, alcançou El-rei D. João V, *O Magnânimo*, o título de *Fidelíssimo*, do Papa Bento XIV. Foi elevada à dignidade de Patriarcado a cidade de Lisboa, a par de Roma e Veneza. Portugal ficaria, desde aí, a ser conhecido como a Nação Fidelíssima. Se poucos motivos haverá para questionar a boa-vontade portuguesa à Igreja, há, porém, alguns que permitem suspeitar que aquela não seria recíproca na mesma medida.
 
 >Abaixo se transcrevem algumas conversas entre o Ministro dos Negócios Estrangeiros Português, Franco Nogueira, e o Núncio Apostólico em Lisboa. O tema principal das conversas é o tratamento dado pelo Papa Paulo VI à União Indiana<!-- PELICAN_END_SUMMARY -->, incluindo uma viagem a Bombaim em 1964, e que Portugal considerava despropositado, prejudicial à sua causa e afrontoso; no que, parece-me, estava correcto.
 
