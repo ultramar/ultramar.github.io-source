@@ -4,5 +4,5 @@ a
 {% else %}
 aos
 {% endif %}
-<time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time>
+<time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date|replace("Ã§", "ç") }}</time>
 </span>
