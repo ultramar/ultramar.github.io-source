@@ -30,10 +30,10 @@ MENUITEMS = [
     ('Arquivo','/archives.html'),
 ]
 
-MD_EXTENSIONS = ['extra', 'footnotes']
+MD_EXTENSIONS = ['extra', 'footnotes', 'toc']
 
 PLUGIN_PATH = "plugins"
-PLUGINS = ['optimize_images', 'summary', 'post_stats']
+PLUGINS = ['optimize_images', 'summary', 'post_stats', 'interlinks']
 
 DISQUS_SITENAME = 'ultramar-io'
 DISQUS_DEVMODE = True
