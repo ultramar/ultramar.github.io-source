@@ -402,8 +402,8 @@ Dos órgãos de Conselho, Secretariado e de Inspecção, para apoio do President
 
 São eles: O Conselho Superior de Defesa Nacional (órgão conjunto civil-militar), cuja composição se desactualizou. O Secretariado-Geral de Defesa Nacional, que actualmente é um órgão puramente militar, embora pareça pretender servir também de órgão de Secretariado do Presidente do Conselho para a estratégia nacional, o que o exigiria conjunto (civil-militar). O Conselho de Defesa Militar das Províncias que, sendo órgão de estratégia total, está mal denominado e tem constituição completamente desactualizada (há uma actualização, de um decreto, feita por mero despacho e, portanto, do ponto de vista formal, não-legal). O Conselho Ultramarino e as Inspecções Superiores do Ultramar que, ajustadas, dariam órgãos de Conselho e de Inspecção do Vice-Presidente do Conselho (ou Ministro da Presidência). Todo o Serviço de Planeamento e Integração Económica que actualmente já procura orientar problemas de integração total), que, mudado de denominação (Integração Nacional e Integração Provincial) e ajustando-se, daria o órgão de Secretariado do Vice-Presidente do Conselho (ou Ministro da Presidência) e os órgãos de Conselho (a partir das Comissões de Planeamento e Integração Económica existentes) e de Secretariado e de Inspecção (a partir dos Serviços de Planeamento e de Integração Económica e das Inspecções existentes) das Províncias.
 
-[![Estrutura Governamental Unificada](images/estrategia_estrutural_1.jpg =600x600 "Estrutura Governamental Unificada")][1]
-[1]: images/estrategia_estrutural_1.jpg
+[![Estrutura Governamental Unificada](images/estrategia_estrutural_1.jpg =600x600 "Estrutura Governamental Unificada")][2]
+[2]: images/estrategia_estrutural_1.jpg
 
 </br>
 ###V. CONCLUSÃO
