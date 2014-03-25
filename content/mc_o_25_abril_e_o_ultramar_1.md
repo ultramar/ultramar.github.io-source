@@ -8,8 +8,8 @@ Original_Work: O 25 de Abril e o Ultramar - três entrevistas e alguns documento
 Original_Extra: págs. 9 a 27
 Original_Work_Link: http://www.worldcat.org/oclc/462662782
 
-><!-- PELICAN_BEGIN_SUMMARY -->
-Durante o seu exílio no Brasil, o professor Marcello Caetano concedeu em 1976 duas entrevistas ao semanário do Rio de Janeiro «O Mundo Português». A Editorial Verbo publicou-as num volume intitulado «O 25 de Abril e o Ultramar - três entrevistas e alguns documentos"» juntamente com uma terceira entrevista inédita e meia dúzia de documentos: correspondência do presidente do Conselho com o general Spínola e cartas enviadas sob direito de resposta ao semanário a propósito de afirmações de Veiga Simão.
+<!-- PELICAN_BEGIN_SUMMARY -->
+>Durante o seu exílio no Brasil, o professor Marcello Caetano concedeu em 1976 duas entrevistas ao semanário do Rio de Janeiro «O Mundo Português». A Editorial Verbo publicou-as num volume intitulado «O 25 de Abril e o Ultramar - três entrevistas e alguns documentos"» juntamente com uma terceira entrevista inédita e meia dúzia de documentos: correspondência do presidente do Conselho com o general Spínola e cartas enviadas sob direito de resposta ao semanário a propósito de afirmações de Veiga Simão.
 
 > Na pequena nota introdutória desse volume dizem-nos que Marcello Caetano fala «acerca da sua acção na questão ultramarina e nos antecedentes da revolução de 25 de Abril, bem como o seu comportamento nesse dia.»
 
