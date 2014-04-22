@@ -79,7 +79,7 @@ De seguida, andei por diferentes subdelegações de Angola, sobretudo onde havia
 
 <br>
 ####2. 
-Um dia, em Luanda, conheci o administrador Manuel Pontes. Estava quase na reforma. Falamos prolongadamente. Falamos sobretudo de uma região que ele conhecia muito bem: as «terras do fim do mundo», cognome dado ao Sudeste de Angola por Henrique Galvão, no livro «Outras Terras Outras Gentes». 
+Um dia, em Luanda, conheci o administrador Manuel Pontes. Estava quase na reforma. Falámos prolongadamente. Falámos sobretudo de uma região que ele conhecia muito bem: as «terras do fim do mundo», cognome dado ao Sudeste de Angola por Henrique Galvão, no livro «Outras Terras Outras Gentes». 
 
 Disse-me uma enorme quantidade de coisas sobre uma minoria étnica, a que nós chamávamos os bosquímanos, que habitava no Cuando-Cubando. Como eu havia frequentado o Instituto Superior de Estudos Ultramarinos, tinha tido algum conhecimento dessa etnia. 
 
