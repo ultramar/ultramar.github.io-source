@@ -203,7 +203,7 @@ No dia 26 de Abril, a DGS foi ocupada. Disseram que nos iam retirar dali porque 
 Devo ainda dizer que tinha um isqueiro de ouro maciço, no meu gabinete. Fora-me oferecido pela população de Carmona. Andou por ali um aspirante qualquer. Ao aspirante e ao isqueiro nunca mais os vi. Deve haver uma ligação entre os dois objectos, como é natural.
 
 <br>
-Resisti ao golpe. Quando soube que uns velhos «Patton» da cavalaria 7 iam atacar a PIDE tomei a iniciativa de bloquear a rua. Tínhamos o direito de nos defendermos. Fui à Praça do Chiado e trouxe um eléctrico da Carris para bloquear a linha. Com outro parado no fim da Vítor Cordon e um camião do lixo a bloquear a Travessa dos Teatros os tanques não entraram. 
+Resisti ao golpe. Quando soube que uns velhos «Patton» da Cavalaria 7 iam atacar a PIDE tomei a iniciativa de bloquear a rua. Tínhamos o direito de nos defendermos. Fui à Praça do Chiado e trouxe um eléctrico da Carris para bloquear a linha. Com outro parado no fim da Vítor Cordon e um camião do lixo a bloquear a Travessa dos Teatros os tanques não entraram. 
 
 Aparece então uma companhia dos fuzileiros, com uma farda de combate esquisita. Deram-nos a entender que iam ocupar a DGS. Fui com o meu director, Silva Pais e com o Alpoim Calvão dizer-lhes para se irem embora que se nós quiséssemos mandávamos-lhes umas granadas e uns tiros e podiam aleijar-se. E foram. 
  
