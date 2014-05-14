@@ -1,30 +1,43 @@
-Title: Pieter Lessing: Substitute for an Introduction
-Date: 2013-11-20 19:00
+Title: As Fotografias
+Date: 2014-05-14 23:25
 Category: Ultramar
-Tags: 'Bernardo Teixeira', 'The Fabric of Terror', 'UPA', 'Holden Roberto'
+Tags: 'Bernardo Teixeira', 'The Fabric of Terror', 'UPA', 'Holden Roberto', 'Fotos'
 Author: Henrique
 Original_Author: Bernardo Teixeira
 Original_Work: The Fabric of Terror - Three days in Angola, The Devin-Adair Company, New York, 1965
-Original_Extra: capítulo I
+Original_Extra: capítulo 9, págs. 125-138 
 Original_Work_Link: http://www.worldcat.org/oclc/965368
 
-><!-- PELICAN_BEGIN_SUMMARY -->O jornalista sul-africano Pieter Lessing escreve, na *Foreword* do seu *Africa's Red Harvest*, que o primeiro capítulo fora para ser uma introducção, mas que ficara demasiado longo. Diz ainda que é aquela a única instância, no livro, em que detalhadamente lida com os eventos de um país. O país era Portugal. E os eventos foram os do início da última guerra travada pela Nação Portuguesa, e ocorreram no território da então província ultramarina de Angola. Servindo aqui o mesmo propósito original, transcreve-se, na íntegra, e por ora em língua bárbara, o primeiro capítulo desse livro, que relata o início da guerra do <u>Ultramar</u>.<!-- PELICAN_END_SUMMARY -->
+><!-- PELICAN_BEGIN_SUMMARY -->Na entrada anterior ficámos a conhecer o livro *The Fabric of Terror* de Bernardo Teixeira, e a descrição macabra dos acontecimentos da serração do Luvo.
+
+>Infelizmente, há mais macabro ainda... A meio do livro pode encontrar-se uma série de fotografias documentando os horrores que andavam à solta no Norte de Angola em 1961. Não trazem legendas nem se diz explicitamente em que sítio foram recolhidas.
+
+>Porém, o nono capítulo do livro tem por título *The Photographs*, e conta-nos a visita do autor à plantação *Maria José*, situada a cerca de 30km a Oeste de Negage. No mesmo capítulo é-nos reproduzido um memorando elaborado por "um burocrata de Luanda" e dirigido ao Governador de Angola, que descreve o cenário encontrado na plantação *Maria José* a 4 de Junho pelas autoridades portuguesas. Diz-nos o memorando que a acompanhá-lo estão três conjuntos de fotografias que lá foram tiradas. Dois pertencerão à *Maria José*, e um terceiro a uma plantação de um alemão, Herr Hucking, perto de Camabatela.
+
+>Uma vez que as fotografias do livro não trazem indicação nenhuma, não é possível saber com certeza a qual dos conjuntos pertencem; mas parece seguro presumir que façam parte de um ou mais deles. Uma das fotografias mostra uma grávida, o que parece corresponder à descrição do que foi visto na propriedade do homem alemão. Não sabemos. O que sabemos é que isto não é senão uma pequena amostra do que sucedeu aos portugueses, brancos e pretos, e aos estrangeiros - em suma, à população - do Norte de Angola em 1961.
+<!-- PELICAN_END_SUMMARY -->
+
+>Reproduzimos de seguida o capítulo em causa e as fotografias do livro. As cenas capturadas pelas fotografias são de uma selvajaria e crueldade extremas, do que se avisa desde já os benévolos leitores mais sensíveis.
 
 ---
  
+##9. The Photographs
 
-...and the Vision whispers in my dream:
-I have come from afar in search of your heart
-to bring it peace and relief, my sleeping friend,
-but I stare at her in painfull surprise
-(the night is arid as my own infinite)
-I stare at her with darkened, glassy eyes
-and I reply: forgive me, benevolent Death,
-for I have already died and died...
-
+<br>
+...and the Vision whispers in my dream:<br>
+I have come from afar in search of your heart<br>
+to bring it peace and relief, my sleeping friend,<br>
+but I stare at her in painful surprise<br>
+(the night is arid as my own infinite)<br>
+I stare at her with darkened, glassy eyes<br>
+and I reply: forgive me, benevolent Death,<br>
+for I have already died and died...<br><br>
 ANTHERO DE QUENTAL (1842-1891)
 
 ---
+
+[![ilu 1](images/fotografias_6.jpg =600x600 "Ilustração 1")][1]
+[1]: images/fotografias_6.jpg
 
 
 "This is the place," my companion, the photographer from Luanda, said, as he pointed to the burned-up buildings ahead of us. Our Land Rover proceeded slowly, following the zigzagging path of the military jeep ahead of us, the driver of which was trying to avoid, by instinct, any land mines buried in the dusty, narrow road. We were coming to a large commercial plantation, called "Maria José" which is located about thirty kilometers west of Negage, the chief Portuguese air force base in northern Angola.
@@ -37,6 +50,9 @@ Minutes later as we alighted from our vehicles a vast spectacle of desolation an
 
 "A kind of humane touch by one of the terrorists... the only humane touch about this ghastly business," the photographer explained. "Apparently, one of the terrorists must have been a friend of the fellow buried there, because he took the trouble to bury him, placing the victim's favorite hat over the grave, and salvaging a Virgin Mary, from the burning chapel to give added comfort to the dead one. All the other victims were left at the spots where they were killed and mutilated. The name of the fellow under the earth there was Quiluange Uola, of the Cuale people. He did treasure his plumed velvet hat and he was also a Catholic, as were more than half of the workers here, judging from the rosaries and images of saints we found in the debris."
 
+[![ilu 2](images/fotografias_7.jpg =600x600 "Ilustração 2")][2]
+[2]: images/fotografias_7.jpg
+
 As we turned around to take a look inside of what had been the sleeping quarters for bachelor workers, a band of black birds flew away in a clatter from a dark corner of the building and an enormous rat, in panic, dashed past the photographer's legs into the bright sun outside.
 
 "You see that burned beam there?" the photographer asked, pointing to what was left of the ceiling. "A fellow was hanging from that beam, completely naked. He obviously had been caught by several shots as he tried to escape through tile high ceiling. The expression of fright on his face, with his teeth buried in the wood of the beam, and his big eyes practically leaping out of their sockets - that's something I will never forget. His body was hanging from the beam in the most grotesque fashion. It looked as though it was actually suspended by its genital organs! Imagine, being in that horrible posture for three days, and dead! I took several pictures of him."
@@ -46,6 +62,7 @@ I walked out of the dormitory to catch my breath. Presently I sat down on a rock
 [^1]:literal translation
 
 "His Excellency, The Governor General of Angola, Palace of the Government, Luanda, Angola
+
 Luanda, June 10, 1961"
 
 "Excellency:
@@ -85,48 +102,51 @@ Luanda, June 10, 1961"
 "From the records we were able to find in the office of the plantation, from the testimony of the two eyewitnesses, the native workers Continuo and Jurga, and from the reports of the two European employees, Barraqueiro and Calixto, who were not at the plantation at the time of the massacre, we presume that, among the forty bodies we buried, there were the following thirty-six people:
 
 OF THE BAILUNDO PEOPLE
-Maurício
-Eugénio Cacala
-André Pinto
-Maria Bento
-José Bento
-Maria Bumba
-Manuel Bumba
+
+Maurício, 
+Eugénio Cacala, 
+André Pinto, 
+Maria Bento, 
+José Bento, 
+Maria Bumba, 
+Manuel Bumba, 
 João (a child)
 
 
 OF THE CUALE PEOPLE
-Bernardo Quiluange
-José Cabaca
-Queta Quiluange (a child)
-Cassua Quissanga
-Quiluange Uola
-Faustino
-Ferraz Gonga
-Manuel Capemba
-Jacinto Massango
-Daniel Cabaca
-Agostinho Bravo
-Luamba Gunza
-Armando Zua
-Joaquim Ebo
-Fonseca Vunge
-João Curiba
-Albino Dala
-Joaquim Quisanga
-Tomaz Camuege
-Neves Gonga
-Mário Catenda
-Albino Zua
-Samuel Lenga
-Bernardo (a child)
-Ferraz Camuege
+
+Bernardo Quiluange, 
+José Cabaca, 
+Queta Quiluange (a child), 
+Cassua Quissanga, 
+Quiluange Uola, 
+Faustino, 
+Ferraz Gonga, 
+Manuel Capemba, 
+Jacinto Massango, 
+Daniel Cabaca, 
+Agostinho Bravo, 
+Luamba Gunza, 
+Armando Zua, 
+Joaquim Ebo, 
+Fonseca Vunge, 
+João Curiba, 
+Albino Dala, 
+Joaquim Quisanga, 
+Tomaz Camuege, 
+Neves Gonga, 
+Mário Catenda, 
+Albino Zua, 
+Samuel Lenga, 
+Bernardo (a child), 
+Ferraz Camuege, 
 
 FROM DIMUCA
 
-Quimbuari Luma (foreman)
-Malau Cambige
-Mulaza Mahula (foreman)
+Quimbuari Luma (foreman), 
+Malau Cambige, 
+Mulaza Mahula (foreman), 
+
 
 "Excellency:
 
@@ -146,9 +166,22 @@ Mulaza Mahula (foreman)
 
 "I avail myself of this opportunity to present to Your Excellency the assurances of my highest consideration."
 
+---
 
+[![foto 1](images/fotografias_1_tn.jpg =600x600 "Fotografia 1")][3]
+[3]: images/fotografias_1.jpg
 
+[![foto 2](images/fotografias_2_tn.jpg =600x600 "Fotografia 2")][4]
+[4]: images/fotografias_2.jpg
 
+[![foto 3](images/fotografias_3_tn.jpg =600x600 "Fotografia 3")][3]
+[5]: images/fotografias_3.jpg
+
+[![foto 4](images/fotografias_4_tn.jpg =600x600 "Fotografia 4")][3]
+[6]: images/fotografias_4.jpg
+
+[![foto 5](images/fotografias_5_tn.jpg =600x600 "Fotografia 5")][3]
+[7]: images/fotografias_5.jpg
 
 
 
