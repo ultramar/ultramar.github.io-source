@@ -40,5 +40,7 @@ nosetests.xml
 output
 
 # SASS
-
 .sass-cache/
+
+# Pelican
+cache/
