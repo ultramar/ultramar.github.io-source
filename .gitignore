@@ -38,3 +38,7 @@ nosetests.xml
 .DS_Store
 .idea
 output
+
+# SASS
+
+.sass-cache/

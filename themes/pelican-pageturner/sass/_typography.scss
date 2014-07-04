@@ -6,4 +6,5 @@ $font-path: "../font/";
 @include font-face('governor', '#{$font-path}governor-webfont');
 @include font-face('nevis', '#{$font-path}nevis-webfont');
 @include font-face('calluna-regular', '#{$font-path}Calluna-Regular-webfont');
-@include font-face('futura-medium', '#{$font-path}Futura-Medium');
+@include font-face('futura-medium', '#{$font-path}futura-md-bt-medium-webfont');
+
