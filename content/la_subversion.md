@@ -155,7 +155,7 @@ As injustiças que o agente subversivo denuncia, as pressões que declara intole
 #### Exploração dos direitos universais da pessoa humana e dos ideais da consciência moral comum
 
 
-Habituámo-nos, desde há um século e meio, a considerar a «exploração do homem pelo homem» como a tara original do capitalismo. Não só entram em transe pré-revolucionário os livres-pensadores do século XX quando ouvem estas palavras, como cada vez mais grupos que sentem «explorados», ou melhor ainda «alienados pelo sistema», são tentados pela manipulação desta fórmula mágica.
+Habituámo-nos, desde há um século e meio, a considerar a «exploração do homem pelo homem» como a tara original do capitalismo. Não só entram em transe pré-revolucionário os livres-pensadores do século XX quando ouvem estas palavras, como cada vez mais grupos que se sentem «explorados», ou melhor ainda «alienados pelo sistema», são tentados pela manipulação desta fórmula mágica.
 
 Apesar disto, existe outra forma exploração do homem pelo homem, mais subtil e desprezível: a exploração dos ideais e valores humanos universais, para a pura manipulação das pessoas.
 
