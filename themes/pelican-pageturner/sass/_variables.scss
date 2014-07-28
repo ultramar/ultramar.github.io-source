@@ -35,6 +35,9 @@ $page-title-kerning: 0.1em;
 $page-undertitle-kerning: 0.15em;
 $blog-undertitle-text-weight: 500;
 
+
+// POST
+
 $post-font-size: 1.1em;
 $post-font-line-height: 1.7em;
 $post-align: justify;
@@ -42,7 +45,9 @@ $post-align: justify;
 $post-first-words-font-variant: small-caps;
 $post-first-words-font-size: 1em;
 
-//$post-title-font-family: 'futura-medium', sans-serif;
+//$post-title-font-family: 'Sorts Mill Goudy', serif;
+$post-title-font-family: 'Lusitana', serif;
+$post-title-text-transform: none;
 $post-title-font-size: 1.6em;
 $post-title-font-weight: normal;
 $post-title-font-style: normal;
@@ -63,16 +68,6 @@ $subheading-font-style: normal;
 $subheading-top-spacing: 2em;
 
 $subheadings-align: left;
-
-$code-font-family: 'Cousine';
-$code-font-size: 0.75em;
-$code-padding: 0.4em;
-$code-margin: 0.4em;
-$code-border-radius: 3px;
-$code-border-color: $gray;
-$code-background-color: $white;
-
-$code-block-line-height: 1.8em;
 
 $caption-font-size: 0.9em;
 $caption-font-family: 'Sorts Mill Goudy', serif;
@@ -125,3 +120,12 @@ $tags-spacing: 0.6em;
 /* Space before and after a <hr> */
 $hr-spacing: 4em;
 
+$code-font-family: 'Cousine';
+$code-font-size: 0.75em;
+$code-padding: 0.4em;
+$code-margin: 0.4em;
+$code-border-radius: 3px;
+$code-border-color: $gray;
+$code-background-color: $white;
+
+$code-block-line-height: 1.8em;

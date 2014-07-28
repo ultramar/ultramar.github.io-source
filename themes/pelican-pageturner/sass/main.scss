@@ -195,20 +195,14 @@ article {
       font-size: 1.1em;
       color: $dark-gray;
     }
-
-    .cristo {
-      border-bottom: 0px solid $light-gray;
-      border-top: 0px solid $light-gray;
-      padding: 0;
-    }
-
   }
 
   .right {
     text-align: right;
   }
 
-  h1, h2, h3 {
+  h1, h2, h3, h4, h5 {
+    font-family: $post-title-font-family;
     text-align: $subheadings-align;
 
     a {
@@ -227,6 +221,8 @@ article {
     text-align: center;
 
     h1 {
+      font-family: $post-title-font-family;
+      text-transform: $post-title-text-transform;
       font-size: $post-title-font-size;
       font-weight: $post-title-font-weight;
       font-style: $post-title-font-style;
