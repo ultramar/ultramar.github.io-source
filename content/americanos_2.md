@@ -1,7 +1,7 @@
 Title: Franco Nogueira e Dean Rusk
 Date: 2015-04-30 18:43
 Category: Ultramar
-Tags: 'Franco Nogueira', 'Diálogos Interditos', 'EUA' 
+Tags: 'Franco Nogueira', 'Diálogos Interditos', 'Dean Rusk', 'EUA' 
 Author: Henrique
 Original_Author: Franco Nogueira
 Original_Work: Diálogos Interditos - A política externa portuguesa e a guerra de África, I Volume, Editorial Intervenção, 1979
