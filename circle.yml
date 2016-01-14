@@ -2,7 +2,7 @@ machine:
   python:
     version: 2.7
   environment:
-    GH_TOKEN: 45e93de7c9897a9d960c0a036415b73b7d6679d1
+    GH_TOKEN: aa11400f2511cbace9fbbccf4503ebd968dd54a9
 checkout:
   post:
     - git submodule update --init --recursive
