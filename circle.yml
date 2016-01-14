@@ -1,0 +1,18 @@
+machine:
+  python:
+    version: 2.7
+checkout:
+  post:
+    - git submodule update --init --recursive
+dependencies:
+  pre:
+    - sudo locale-gen pt_PT
+    - sudo apt-get install -y optipng
+test:
+  override:
+    - pelican /home/ubuntu/ultramar.github.io-source/content -o /home/ubuntu/ultramar.github.io-source/output -s /home/ubuntu/ultramar.github.io-source/publishconf.py
+deployment:
+  release:
+    branch: master
+    commands:
+      - ./deploy.sh
