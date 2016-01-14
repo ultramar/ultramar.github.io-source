@@ -1,6 +1,8 @@
 machine:
   python:
     version: 2.7
+  environment:
+    GH_TOKEN: 458de592735515721b17e4556d5a489cec4801f6
 checkout:
   post:
     - git submodule update --init --recursive
@@ -15,4 +17,4 @@ deployment:
   release:
     branch: master
     commands:
-      - ./deploy.sh
+      - ./deploy_ci.sh
