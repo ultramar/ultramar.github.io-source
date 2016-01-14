@@ -2,7 +2,7 @@
 BRANCH=master
 TARGET_REPO=ultramar/ultramar.github.io.git
 PELICAN_OUTPUT_FOLDER=output
-if [ "$CI_PULL_REQUEST" == "false" ]; then
+#if [ "$CI_PULL_REQUEST" == "false" ]; then
     echo -e "Starting to deploy to Github Pages\n"
     if [ "$CIRCLECI" == "true" ]; then
         git config --global user.email "ci@circle-ci.org"
@@ -18,4 +18,4 @@ if [ "$CI_PULL_REQUEST" == "false" ]; then
     git commit -m "Circle CI build $CIRCLE_BUILD_NUM pushed to Github Pages"
     git push -fq origin $CIRCLE_BRANCH > /dev/null
     echo -e "Deploy completed\n"
-fi
+#fi
