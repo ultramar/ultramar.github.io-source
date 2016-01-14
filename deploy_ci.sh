@@ -9,7 +9,7 @@ PELICAN_OUTPUT_FOLDER=output
         git config --global user.name "Circle CI"
     fi
     #using token clone gh-pages branch
-    git clone --quiet --branch=$CIRCLE_BRANCH git@github.com:ultramar/$TARGET_REPO built_website > /dev/null
+    git clone --quiet --branch=$CIRCLE_BRANCH git@github.com:$TARGET_REPO built_website > /dev/null
     #go into directory and copy data we're interested in to that directory
     cd built_website
     rsync -rv --exclude=.git  ../$PELICAN_OUTPUT_FOLDER/* .
